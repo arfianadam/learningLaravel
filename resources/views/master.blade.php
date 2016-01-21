@@ -7,7 +7,7 @@
 <body>
 
 	<div class="container">
-		<h1>My New Laravel Blog</h1>
+		<h1>My Laravel Blog</h1>
 		@yield('submenu')
 	</div>
 
